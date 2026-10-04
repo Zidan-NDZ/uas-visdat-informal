@@ -2,7 +2,7 @@
 
 Dasbor R Shiny berbahasa Indonesia: *dari struktur nasional, sebaran kabupaten/kota, hingga faktor yang menyertai pekerja informal.* Dibuat untuk UAS Visualisasi Data 2026 dengan tiga topik: **hierarki** (Bab 1), **geospasial** (Bab 2), dan **multivariat** (Bab 3).
 
-- **Aplikasi:** https://naufaldzakizaidan.shinyapps.io/uas-visdat-informal/ (tanpa login)
+- **Aplikasi:** https://naufaldzakizaidan.shinyapps.io/Dashboard-UAS-Visdat/
 - **Repositori:** https://github.com/Zidan-NDZ/uas-visdat-informal.git
 - **Periode data:** Sakernas Agustus 2025
 
