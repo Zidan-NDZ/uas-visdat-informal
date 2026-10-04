@@ -118,4 +118,4 @@ Pengerjaan memakai alat AI berikut. Tiap tiket dikerjakan dari `SPEC.md` dan `TI
 
 | Alat | Dipakai untuk |
 |---|---|
-| Claude (Anthropic) | Menyusun SPEC dan tiket; perapian tampilan (T8) dan peta OSM; README dan tabel sumber (T9) |
+| Claude (Anthropic) | Menyusun SPEC dan tiket, merapihkan tampilan UI dan peta OSM, debugging kode R, serta penyusunan README |
