@@ -1,0 +1,12 @@
+"id","induk","label","juta_orang","juta_perempuan","pct_perempuan"
+"usia_kerja",,"Penduduk Usia Kerja",218.17,,
+"bekerja","usia_kerja","Bekerja",146.54,58.46,39.8935444247305
+"tidak_bekerja","usia_kerja","Tidak Bekerja",71.63,,
+"formal","bekerja","Formal",61.84,21.43,34.6539456662354
+"informal","bekerja","Informal",84.7,37.03,43.7190082644628
+"bukan_angkatan_kerja","tidak_bekerja","Bukan Angkatan Kerja",64.17,,
+"pengangguran","tidak_bekerja","Pengangguran",7.46,,
+"formal_l","formal","Laki-laki",40.41,0,0
+"formal_p","formal","Perempuan",21.43,21.43,100
+"informal_l","informal","Laki-laki",47.67,0,0
+"informal_p","informal","Perempuan",37.03,37.03,100

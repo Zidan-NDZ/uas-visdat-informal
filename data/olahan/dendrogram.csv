@@ -1,0 +1,9 @@
+"id","induk","level","label","juta_orang"
+"usia_kerja",,1,"Penduduk Usia Kerja",218.17
+"angkatan_kerja","usia_kerja",2,"Angkatan Kerja",154
+"bukan_ak","usia_kerja",2,"Bukan Angkatan Kerja",64.17
+"bekerja","angkatan_kerja",3,"Bekerja",146.54
+"pengangguran","angkatan_kerja",3,"Pengangguran",7.46
+"pekerja_penuh","bekerja",4,"Pekerja Penuh",98.65
+"pekerja_paruh","bekerja",4,"Pekerja Paruh Waktu",36.29
+"setengah_peng","bekerja",4,"Setengah Pengangguran",11.6
