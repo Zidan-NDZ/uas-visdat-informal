@@ -43,21 +43,19 @@ Daftar lengkap (judul, tahun, URL, tanggal akses) ada di [`data/sumber.csv`](dat
 
 ```
 uas-visdat-informal/
-├── app.R                  # entry point + semua fungsi + pra-pemrosesan (bangun_data)
+├── app.R                  
 ├── komponen/
-│   ├── ui.R               # objek `ui`
-│   └── server.R           # objek `server`
+│   ├── ui.R               
+│   └── server.R           
 ├── data/
-│   ├── raw/               # Dataset.xlsx, kode_provinsi.csv (shapefile tidak di-push, lihat bawah)
-│   ├── olahan.rds         # cache hasil bangun_data() (di-push dan di-deploy)
-│   ├── olahan/            # ekspor CSV terbaca
-│   └── sumber.csv         # tabel sumber (tidak dibaca aplikasi)
-├── docs/                  # tangkapan layar untuk README
+│   ├── raw/               
+│   ├── olahan.rds      
+│   ├── olahan/            
+│   └── sumber.csv         
+├── docs/                  
 ├── README.md
 └── .gitignore
 ```
-
-**Mengapa `ui.R` dan `server.R` ada di `komponen/`?** Bila `server.R` berada di folder utama, Shiny memakai mode `ui.R`/`server.R` dan mengabaikan `app.R`, sehingga paket, fungsi, dan data di `app.R` tidak termuat. Folder juga sengaja tidak bernama `R/` karena Shiny otomatis menjalankan semua berkas di dalamnya.
 
 ## Menjalankan secara lokal
 
